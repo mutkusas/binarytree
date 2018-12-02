@@ -1,0 +1,11 @@
+C:\Users\Irmantas\source\repos\DanskeMedis\DanskeMedis\bin\Debug\netcoreapp2.0\DanskeMedis.deps.json
+C:\Users\Irmantas\source\repos\DanskeMedis\DanskeMedis\bin\Debug\netcoreapp2.0\DanskeMedis.runtimeconfig.json
+C:\Users\Irmantas\source\repos\DanskeMedis\DanskeMedis\bin\Debug\netcoreapp2.0\DanskeMedis.runtimeconfig.dev.json
+C:\Users\Irmantas\source\repos\DanskeMedis\DanskeMedis\bin\Debug\netcoreapp2.0\DanskeMedis.dll
+C:\Users\Irmantas\source\repos\DanskeMedis\DanskeMedis\bin\Debug\netcoreapp2.0\DanskeMedis.pdb
+C:\Users\Irmantas\source\repos\DanskeMedis\DanskeMedis\obj\Debug\netcoreapp2.0\DanskeMedis.csprojResolveAssemblyReference.cache
+C:\Users\Irmantas\source\repos\DanskeMedis\DanskeMedis\obj\Debug\netcoreapp2.0\DanskeMedis.csproj.CoreCompileInputs.cache
+C:\Users\Irmantas\source\repos\DanskeMedis\DanskeMedis\obj\Debug\netcoreapp2.0\DanskeMedis.AssemblyInfoInputs.cache
+C:\Users\Irmantas\source\repos\DanskeMedis\DanskeMedis\obj\Debug\netcoreapp2.0\DanskeMedis.AssemblyInfo.cs
+C:\Users\Irmantas\source\repos\DanskeMedis\DanskeMedis\obj\Debug\netcoreapp2.0\DanskeMedis.dll
+C:\Users\Irmantas\source\repos\DanskeMedis\DanskeMedis\obj\Debug\netcoreapp2.0\DanskeMedis.pdb
